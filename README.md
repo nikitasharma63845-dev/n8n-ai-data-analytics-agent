@@ -30,6 +30,32 @@ The agent can:
 
 ---
 
+## 📸 Project Screenshots
+
+### 1. Workflow Architecture
+
+The n8n workflow connects the chat interface with the AI Agent, OpenAI Chat Model, conversational memory, Google Sheets, and Gmail.
+
+![Workflow Architecture](workflow-architecture.PNG)
+
+---
+
+### 2. AI Agent in Action
+
+The agent can answer natural-language questions by retrieving and analysing data from the connected Google Sheet.
+
+![AI Agent in Action](agent-analysis.PNG)
+
+---
+
+### 3. Automated Email Report
+
+The agent can also generate and send a structured analysis report through Gmail when requested.
+
+![Automated Email Report](automated-email-report.PNG)
+
+---
+
 ## ⚙️ Workflow
 
 The basic workflow is:
